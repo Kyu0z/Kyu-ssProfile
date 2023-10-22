@@ -28,7 +28,7 @@ const Contact = () => {
           data-aos="fade-right"
           className="flex flex-col w-full justify-evenly space-y-6 items-center lg:flex-row lg:space-y-0 lg:space-x-12 "
         >
-          <div className="p-4  lg:w-1/3 md:w-2/3">
+          <div className="p-4 lg:w-1/3 md:w-2/3">
             <Lottie
               options={defaultOptions}
               height={dimension}
@@ -43,7 +43,7 @@ const Contact = () => {
               <img src={phoneIcon} className="h-8 w-8 self-center" alt="" />
               <div className="flex flex-col ">
                 <span className="font-bold">Phone Number</span>
-                <a href="tel:+84775509168" className="hover:font-semibold">
+                <a href="tel:+84948757151" className="hover:font-semibold">
                   094.8757.151
                 </a>
               </div>
