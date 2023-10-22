@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Kyu-ssProfile/static/css/main.590f0e04.css",
+    "main.js": "/Kyu-ssProfile/static/js/main.ab2a562a.js",
+    "static/js/787.37ef1a4f.chunk.js": "/Kyu-ssProfile/static/js/787.37ef1a4f.chunk.js",
+    "static/media/project.png": "/Kyu-ssProfile/static/media/project.a1ee2557ba85d7d3a2dc.png",
+    "static/media/project-2.png": "/Kyu-ssProfile/static/media/project-2.b2b5d942400ea8287071.png",
+    "static/media/project-1.png": "/Kyu-ssProfile/static/media/project-1.7374c829e2bdffbe9b05.png",
+    "static/media/icons8-react.svg": "/Kyu-ssProfile/static/media/icons8-react.10324d43e5d3598958c47bde2fece78d.svg",
+    "static/media/icons8-sass.svg": "/Kyu-ssProfile/static/media/icons8-sass.903cef0c9879296f452e2bd0364f58e9.svg",
+    "static/media/ant-design-svgrepo-com.svg": "/Kyu-ssProfile/static/media/ant-design-svgrepo-com.739adb6afe19ea52b7371c1377557344.svg",
+    "static/media/nextjs.svg": "/Kyu-ssProfile/static/media/nextjs.8a26c6f656d026180b394559f9acbf79.svg",
+    "static/media/photoshop.svg": "/Kyu-ssProfile/static/media/photoshop.3849d6d0b10e5c90b5a7697405ab00d4.svg",
+    "static/media/home-svgrepo-com.svg": "/Kyu-ssProfile/static/media/home-svgrepo-com.d2838b48723fbcf0902bb943d2fca5f9.svg",
+    "static/media/gmail-svgrepo-com.svg": "/Kyu-ssProfile/static/media/gmail-svgrepo-com.df394e940237d0a8233633e3798f30d9.svg",
+    "static/media/icons8-redux.svg": "/Kyu-ssProfile/static/media/icons8-redux.0a4a6ca2be44339bedb69de15f66d243.svg",
+    "static/media/typescript-svgrepo-com.svg": "/Kyu-ssProfile/static/media/typescript-svgrepo-com.0862127c02a57f6d39dabe211ae436ab.svg",
+    "static/media/bxl-github.svg": "/Kyu-ssProfile/static/media/bxl-github.8705d2fb71bac056e87e78cdc4ff53dd.svg",
+    "static/media/icons8-javascript.svg": "/Kyu-ssProfile/static/media/icons8-javascript.081325c6f229605dce15142ddd948d6d.svg",
+    "static/media/bxl-facebook.svg": "/Kyu-ssProfile/static/media/bxl-facebook.1495d2afe3e105127a9976e03f196b59.svg",
+    "index.html": "/Kyu-ssProfile/index.html",
+    "static/media/tailwind-css.svg": "/Kyu-ssProfile/static/media/tailwind-css.d84a6f369e7170891c4a19587ccf78e1.svg",
+    "static/media/icons8-material-ui.svg": "/Kyu-ssProfile/static/media/icons8-material-ui.60a0ece058ff0f20c1815cf138a56e35.svg",
+    "static/media/icons8-css3.svg": "/Kyu-ssProfile/static/media/icons8-css3.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
+    "static/media/bxs-phone.svg": "/Kyu-ssProfile/static/media/bxs-phone.7edaefabd545fd828b4cfd0ba6280e59.svg",
+    "static/media/icons8-html-5.svg": "/Kyu-ssProfile/static/media/icons8-html-5.c1bb84e022ca9d76984d4b943bd678fd.svg",
+    "main.590f0e04.css.map": "/Kyu-ssProfile/static/css/main.590f0e04.css.map",
+    "main.ab2a562a.js.map": "/Kyu-ssProfile/static/js/main.ab2a562a.js.map",
+    "787.37ef1a4f.chunk.js.map": "/Kyu-ssProfile/static/js/787.37ef1a4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.590f0e04.css",
+    "static/js/main.ab2a562a.js"
+  ]
+}
