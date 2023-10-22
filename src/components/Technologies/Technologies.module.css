@@ -1,0 +1,20 @@
+.left-extras {
+  background-color: aqua;
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: -100%;
+}
+.right-extras {
+  transform: translate(100%, -100%);
+  background-color: aqua;
+}
+
+.technologies {
+  background: rgb(241, 241, 241);
+  background: radial-gradient(
+    circle,
+    rgba(241, 241, 241, 1) 0%,
+    rgba(148, 187, 233, 1) 100%
+  );
+}
