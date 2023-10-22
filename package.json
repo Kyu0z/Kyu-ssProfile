@@ -1,5 +1,5 @@
 {
-  "homepage": "kyuprofile",
+  "homepage": "https://github.com/Kyu0z/Kyu-ssProfile",
   "name": "react-tailwind-demo",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +12,7 @@
     "@testing-library/user-event": "^13.5.0",
     "aos": "^3.0.0-beta.6",
     "daisyui": "^2.24.0",
+    "lottie-react": "^2.4.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-lottie": "^1.2.3",
