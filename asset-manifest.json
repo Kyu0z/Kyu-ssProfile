@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/Kyu-ssProfile/static/css/main.590f0e04.css",
-    "main.js": "/Kyu-ssProfile/static/js/main.ab2a562a.js",
+    "main.js": "/Kyu-ssProfile/static/js/main.ab2aa80e.js",
     "static/js/787.37ef1a4f.chunk.js": "/Kyu-ssProfile/static/js/787.37ef1a4f.chunk.js",
     "static/media/project.png": "/Kyu-ssProfile/static/media/project.a1ee2557ba85d7d3a2dc.png",
     "static/media/project-2.png": "/Kyu-ssProfile/static/media/project-2.b2b5d942400ea8287071.png",
     "static/media/project-1.png": "/Kyu-ssProfile/static/media/project-1.7374c829e2bdffbe9b05.png",
+    "static/media/cv.pdf": "/Kyu-ssProfile/static/media/cv.0faba72e6e14dfc66a59.pdf",
     "static/media/icons8-react.svg": "/Kyu-ssProfile/static/media/icons8-react.10324d43e5d3598958c47bde2fece78d.svg",
     "static/media/icons8-sass.svg": "/Kyu-ssProfile/static/media/icons8-sass.903cef0c9879296f452e2bd0364f58e9.svg",
     "static/media/ant-design-svgrepo-com.svg": "/Kyu-ssProfile/static/media/ant-design-svgrepo-com.739adb6afe19ea52b7371c1377557344.svg",
@@ -25,11 +26,11 @@
     "static/media/bxs-phone.svg": "/Kyu-ssProfile/static/media/bxs-phone.7edaefabd545fd828b4cfd0ba6280e59.svg",
     "static/media/icons8-html-5.svg": "/Kyu-ssProfile/static/media/icons8-html-5.c1bb84e022ca9d76984d4b943bd678fd.svg",
     "main.590f0e04.css.map": "/Kyu-ssProfile/static/css/main.590f0e04.css.map",
-    "main.ab2a562a.js.map": "/Kyu-ssProfile/static/js/main.ab2a562a.js.map",
+    "main.ab2aa80e.js.map": "/Kyu-ssProfile/static/js/main.ab2aa80e.js.map",
     "787.37ef1a4f.chunk.js.map": "/Kyu-ssProfile/static/js/787.37ef1a4f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.590f0e04.css",
-    "static/js/main.ab2a562a.js"
+    "static/js/main.ab2aa80e.js"
   ]
 }
