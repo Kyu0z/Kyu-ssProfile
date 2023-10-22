@@ -1,6 +1,6 @@
 import Container from "../UI/Container/Container";
 import classes from "./Hero.module.css";
-// import MyResume from "../../cv/cv.pdf";
+import MyResume from "../../cv/cv.pdf";
 import Lottie from "react-lottie";
 import coding from "../../assets/71619-coding.json";
 const Hero = () => {
@@ -41,7 +41,7 @@ const Hero = () => {
               success. Please explore my website to learn more about my skills
               and projects. Thank you for visiting!
             </p>
-            <a href="#" download="#">
+            <a href="MyResume" download="MyResume">
               <button
                 className={` px-8 py-4 border group relative border-blue-600 w-fit text-white font-medium hover:text-black rounded-xl overflow-hidden bg-transparent`}
               >
