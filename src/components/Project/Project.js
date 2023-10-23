@@ -17,7 +17,7 @@ const Project = ({ className, projectList }) => {
                 <span className="text-sky-500 text-2xl font-bold relative flex justify-center after:absolute after:w-1/2 after:bg-sky-500 after:h-1 after:mt-12">
                   {project.title}
                 </span>
-                <p className="text-black text-lg md:text-justify pt-6">
+                <p className="text-black text-lg text-left pt-6 leading-9">
                   {project.description}
                 </p>
 
@@ -89,7 +89,7 @@ const Project = ({ className, projectList }) => {
                 <span className="text-sky-500 text-2xl font-bold relative flex justify-center after:absolute after:w-1/2 after:bg-sky-500 after:h-1 after:mt-12">
                   {project.title}
                 </span>
-                <p className="text-black text-md md:text-lg md:text-justify pt-6">
+                <p className="text-black text-lg text-left pt-6 leading-9">
                   {project.description}
                 </p>
 

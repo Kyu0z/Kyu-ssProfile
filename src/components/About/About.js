@@ -41,7 +41,7 @@ const About = () => {
                 Little of me:
                 <br />
               </span>
-              <p className="!mt-2 leading-8 text-justify ">
+              <p className="!mt-2 leading-9 text-left">
                 I have accumulated 2 years of experience in Software Developer
                 working with ReactJS, constantly improving my programming
                 mindset through experimentation and exploration of various
@@ -56,12 +56,19 @@ const About = () => {
                 <span className="font-bold text-white underline">
                   Something else:
                 </span>
-                <ul className="list-disc pl-3 !mt-2">
-                  <li>University: Ho Chi Minh City University of Technology</li>
-                  <li>Time: 2019 - 2023</li>
-                  <li>Major: Information Technology</li>
-                  <li>GPA: 2.9/4.0</li>
-                  <li>Language: Intermediate B1 English</li>
+                <ul className="list-disc pl-3 !mt-4">
+                  <li className="pb-2">
+                    University: <span className="sm:hidden">HUTECH</span>
+                    <span className="hidden sm:inline">
+                      <span className="">
+                        Ho Chi Minh City University <br /> of Technology
+                      </span>
+                    </span>
+                  </li>
+                  <li className="pb-2">Time: 2019 - 2023</li>
+                  <li className="pb-2">Major: Information Technology</li>
+                  <li className="pb-2">GPA: 2.9/4.0</li>
+                  <li className="pb-2">Language: Intermediate B1 English</li>
                 </ul>
               </p>
             </div>

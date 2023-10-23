@@ -12,7 +12,7 @@ const projectList = [
     description:
       'This is an E-commerce website designed with a standard UI/UX along with the following Key features:\n"Product search.\nFilter products by category, brand, color, price.\nDisplay products in grid or list view.\nSort products by price low to high, high to low, A-Z, Z-A, etc.\nAdd products to the cart.\nPurchase products."',
     technologies: ["React + Redux-toolkit", "Context API", "Styled-components"],
-    github: "https://github.com/Kyu0z/thapaStore",
+    github: "https://github.com/Kyu0z/E-commerce",
     address: "https://ecommercekyu.netlify.app",
     isProcessing: false,
   },

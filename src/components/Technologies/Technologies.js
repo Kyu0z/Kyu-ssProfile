@@ -39,7 +39,7 @@ const Technologies = () => {
         <div className="w-full self-start lg:w-1/2">
           <p
             data-aos="fade-up"
-            className="text-lg min-w-full md:pl-20 text-black tracking-wider"
+            className="text-lg min-w-full md:pl-20 text-black tracking-wider leading-9"
           >
             Below is a list of the web development technologies and skills{" "}
             <br /> I have learned and developed up to this point. These were
